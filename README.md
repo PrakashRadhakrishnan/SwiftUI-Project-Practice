@@ -1,1 +1,1 @@
-# SwiftUI-WeSplit-Project-Example
+# SwiftUI-Project-Example
